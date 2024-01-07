@@ -10,10 +10,6 @@ func main() {
 	}
 	fmt.Println(mapExample["Alperen"])
 
-	// Map always returns something
-	// Even if the key doesn't exists
-
-	// But they return second value to indicate it exists
 	var age, exists = mapExample["Efe"]
 	if exists {
 		fmt.Println(age)

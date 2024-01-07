@@ -21,9 +21,6 @@ func main() {
 		fmt.Printf("Division: %0.2f and remainder: %v\n", division, remainder)
 	}
 
-	// About switch cases
-	// Switch cases can use with or withour variables
-	// If variables isn't passes, it can be used like if branches
 }
 
 func greet(name string) {

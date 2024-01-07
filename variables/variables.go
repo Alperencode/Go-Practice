@@ -10,9 +10,6 @@ func main() {
 	var programmer bool = true
 	const language string = "Go"
 
-	// len() returns byte size
-	// So if char is not in ASCII table
-	// It will store in more than one byte
 	length := len(name)
 
 	fmt.Println(name, nickname, age, programmer, language)

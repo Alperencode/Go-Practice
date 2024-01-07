@@ -14,12 +14,14 @@ Go Language Roadmap
 - [x] Arrays
 - [x] Maps
 - [x] Loops
-- [ ] OOP
+- [x] OOP
   - [x] Structs
   - [x] Interfaces
+- [ ] Pointers
+- [ ] Channels
+- [ ] Generics
 - [ ] Go for embedded
 - [ ] Tests in go
-- [ ] Go mod details (tidy and vendor)
 
 Specific Things
 - [x] Keyword: defer

@@ -15,8 +15,8 @@ Go Language Roadmap
 - [x] Maps
 - [x] Loops
 - [ ] OOP
-  - [ ] Structs
-  - [ ] Interfaces
+  - [x] Structs
+  - [x] Interfaces
 - [ ] Go for embedded
 - [ ] Tests in go
 - [ ] Go mod details (tidy and vendor)
@@ -36,4 +36,6 @@ Specific Things
 - Map **always returns value** even if the `key` doesn't exists
   - But it returns a **second value** to indicate if key exists.
 - Switch cases can use with or without variables. If variable isn't passed, it can be used like if branch.
-- Functions can return more than one value
+- Functions can return **more than one value**
+- You can also make **in-line structs** that can be used one time.
+- Interfaces is similar to **abstract classes** in C++

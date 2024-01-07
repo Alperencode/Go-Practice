@@ -21,4 +21,10 @@ func main() {
 	fmt.Println(slice2)
 
 	// use make() if you want to initialize it with capacity
+
+	for num := range slice {
+		fmt.Printf("%v ", num)
+	}
+
+	fmt.Println()
 }

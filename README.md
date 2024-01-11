@@ -21,7 +21,7 @@
 - [x] [Interfaces](interfaces/interfaces.go)
 - [x] [Pointers](pointers/pointers.go)
   - [x] [Pass by Reference](pass-by-reference/pass-by-reference.go)
-- [ ] Channels
+- [x] Channels
 - [ ] Generics
 - [ ] Go for embedded
 - [ ] Tests in go

@@ -22,7 +22,7 @@
 - [x] [Pointers](pointers/pointers.go)
   - [x] [Pass by Reference](pass-by-reference/pass-by-reference.go)
 - [x] Channels
-- [ ] Generics
+- [x] Generics
 - [ ] Go for embedded
 - [ ] Tests in go
 
@@ -47,6 +47,7 @@ Specific Things
 - You can also make **in-line structs** that can be used one time.
 - Interfaces is similar to **abstract classes** in C++
 - Pointers are exactly like C
+- Select-case statement is if statements for channels
 
 > [!IMPORTANT]
 > Exception for copying values without pointers is slices.

@@ -23,8 +23,8 @@
   - [x] [Pass by Reference](pass-by-reference/pass-by-reference.go)
 - [x] Channels
 - [x] Generics
+- [x] Unit test basics
 - [ ] Go for embedded
-- [ ] Tests in go
 
 Specific Things
 - [x] [Keyword: defer](#keyword-defer)
@@ -48,6 +48,9 @@ Specific Things
 - Interfaces is similar to **abstract classes** in C++
 - Pointers are exactly like C
 - Select-case statement is if statements for channels
+- See [testing](https://pkg.go.dev/testing) package docs.
+  - Test files naming convention need to be `snake-case`
+  - Test function naming convetion need to be `pascal-case`
 
 > [!IMPORTANT]
 > Exception for copying values without pointers is slices.
